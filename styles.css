@@ -1,0 +1,12 @@
+.main-nav {
+    display: flex;
+    background: black;
+    color: white;
+    list-style: none;;
+    margin:0;
+    font-size: 0.7em;
+}
+
+.navi li {
+    
+}
